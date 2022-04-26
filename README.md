@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaRthink6
-- 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on python developing
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning packages for DevOps
+- 💞️ I’m looking to collaborate on DevOps engineering
 - 📫 How to reach me rushialuri@gmail.com
 
 <!---
